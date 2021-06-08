@@ -1,6 +1,8 @@
 # Проект: Путешествие по России
 ### Ссылка на GH Pages
-https://shepovalov.github.io/russian-travel/
+https://shepovalov.github.io/russian-travel/ у github pages что-то сломалось и css не прилетает с сервера, сайт отображается не корректно, локально все работает супер, вот скрин:
+![изображение](https://user-images.githubusercontent.com/82893917/121198586-eb0d1300-c87a-11eb-8646-9d2795af5916.png)
+
 ### Обзор
 * Интро
 * Figma
